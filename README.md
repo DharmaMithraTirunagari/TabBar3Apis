@@ -1,4 +1,4 @@
-<img src="ApiDataInTableViewFoodData/images/image.png" alt="Home Screen" width="300">
+
 
 # TabBar API Integration App
 
